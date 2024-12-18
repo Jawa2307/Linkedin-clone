@@ -1,5 +1,5 @@
 # LinkedIn Clone
-
+Live demo: https://linkedin-clone-ionicthor.vercel.app/
 This is a LinkedIn clone web application built using React.js and Firebase. It aims to replicate the core features of the LinkedIn professional networking platform.
 
 ![LinkedIn Clone](https://i.ibb.co/pQNpvSn/Linked-In-Clone-Elevate-Your-Career.png)
